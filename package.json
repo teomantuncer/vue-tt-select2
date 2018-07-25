@@ -1,0 +1,54 @@
+{
+  "_from": "vue-tt-select2",
+  "_id": "vue-tt-select2@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-f9PWRTS3kmxZQ2Sqb7FRi/SQM1BEws/qcewXyK0tGUaENaawvI8zeBMx6+af7Gq3ozvAGNZXWucLbzrMA0Jb3A==",
+  "_location": "/vue-tt-select2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-tt-select2",
+    "name": "vue-tt-select2",
+    "escapedName": "vue-tt-select2",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-tt-select2/-/vue-tt-select2-0.3.0.tgz",
+  "_shasum": "1b47229c3e43d60a6a65a7700b77571f2ec369d1",
+  "_spec": "vue-tt-select2",
+  "_where": "C:\\Work\\_casino\\tito\\vue-plugin\\vue-tt-select2",
+  "author": {
+    "name": "teomantuncer",
+    "email": "teomantuncer@gmail.com",
+    "url": "https://github.com/teomantuncer"
+  },
+  "bugs": {
+    "url": "https://github.com/teomantuncer/vue-tt-select2/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "select2": "^4.0.6-rc.1"
+  },
+  "deprecated": false,
+  "description": "basic select2 component for vuejs.",
+  "homepage": "https://github.com/teomantuncer/vue-tt-select2#readme",
+  "keywords": [
+    "vue",
+    "select2"
+  ],
+  "license": "MIT",
+  "main": "src/TTSelect.vue",
+  "name": "vue-tt-select2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teomantuncer/vue-tt-select2.git"
+  },
+  "version": "0.1.0"
+}

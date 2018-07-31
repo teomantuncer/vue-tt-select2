@@ -1,10 +1,11 @@
 <template>
 	<div>
-		<select class="form-control" :placeholder="placeholder" :disabled="disabled" @focus="focus" @blur="blur"></select>
+		<select class="form-control" :placeholder="placeholder" :disabled="disabled"></select>
 	</div>
 </template>
 
 <script>
+	// @focus="focus" @blur="blur"
 	import $ from 'jquery';
 	import 'select2';
 	import 'select2/dist/css/select2.min.css'
